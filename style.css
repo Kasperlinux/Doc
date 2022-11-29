@@ -115,7 +115,7 @@ select{
     padding: 5px;
 }
 .read-more{
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
     border-radius: 15%;
 }
 .read-more:hover{
